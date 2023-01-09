@@ -12,7 +12,7 @@ keyed_groups:
 
 filters:
   tag:Name:
-    - ACS-bastion
+    - ACS-Bastion
     - ACS-nginx
     - ACS-tooling
     - ACS-wordpress
